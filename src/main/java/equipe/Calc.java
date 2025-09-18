@@ -10,8 +10,7 @@ public class Calc {
 
     // Pessoa B
     public int subtracao(int a, int b) {
-        // TODO: implementar
-        return 0; 
+        return a - b; 
     }
 
     // Pessoa C
