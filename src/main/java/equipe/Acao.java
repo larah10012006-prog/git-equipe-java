@@ -1,9 +1,9 @@
 package equipe;
 
-public class Subclasse1 extends Superclasse {
+public class Acao extends Filme {
     private int numeroExplosoes;
 
-    public Subclasse1(String titulo, String diretor, int duracao, int numeroExplosoes) {
+    public Acao(String titulo, String diretor, int duracao, int numeroExplosoes) {
         super(titulo, diretor, duracao);
         this.numeroExplosoes = numeroExplosoes;
     }
